@@ -63,13 +63,13 @@ Metamask
 ### To run react development server
 
 ```bash
-cd blockchain
+cd APP
 npm start
 ```
 
 ### To run node server
 ```bash
-cd server
+cd SERVER
 npm run dev
 ```
 This should invoke the page and ganache to local metamask Wallet
