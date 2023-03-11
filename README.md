@@ -32,7 +32,7 @@ Metamask
 
 
 
-   ```$ cd blockchain; npm install```
+   ```$ cd APP; npm install```
 
 
 ## Getting Started
